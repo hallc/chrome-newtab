@@ -1,6 +1,6 @@
 chrome-newtab
 =============
-This is a Google Chrome extension that replaces the new tab page with a blank page. There are no configuration options.
+This is a Google Chrome extension that replaces the new tab page with a blank page.
 
 Installing
 ----------
