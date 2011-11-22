@@ -1,0 +1,8 @@
+{
+	"name": "New Tab Page",
+	"version": "0.1",
+	"description": "Display a blank page when opening new tabs.",
+	"chrome_url_overrides": {
+		"newtab": "blank.html"
+	}
+}
