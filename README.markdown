@@ -9,6 +9,7 @@ Installing
 3. Check the box to enable developer mode.
 4. Choose "Load unpacked extension..." and select the directory containing manifest.json.
 
+
 License
 -------
 This extensions is distributed under The MIT License.
