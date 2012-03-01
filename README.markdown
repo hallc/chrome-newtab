@@ -11,5 +11,5 @@ Installing
 
 License
 -------
-This extension is distributed under The MIT License.
+This extension is distributed under the MIT License.
 
