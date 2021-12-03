@@ -1,14 +1,21 @@
 {
 	"name": "New Tab Page",
-	"version": "1.1.0",
-	"manifest_version": 2,
+	"version": "1.2.0",
+	"manifest_version": 3,
 	"description": "Display a blank page when opening new tabs.",
 	"chrome_url_overrides": {
 		"newtab": "blank.html"
 	},
-	"content_security_policy": "default-src 'none'",
+	"content_security_policy": {
+		"default-src": "none"
+	},
 	"incognito": "not_allowed",
 	"externally_connectable": {
 		"ids": []
+	},
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
 	}
 }
